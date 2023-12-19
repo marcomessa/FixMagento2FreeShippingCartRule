@@ -1,6 +1,6 @@
 {
   "name": "marcomessa/module-fixm2-free-shipping-cart-rule",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "N/A",
   "type": "magento2-module",
   "require": {
